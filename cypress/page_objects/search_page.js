@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-const SEARCH_TEXT_FIELD = 'input[name="q"][type="text"]';
+const SEARCH_TEXT_FIELD = 'textarea[name="q"]';
 const SEARCH_BUTTON = 'input[name="btnK"][role="button"]';
 const CALCULATOR_TEXT = 'Calculator';
 
