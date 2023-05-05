@@ -188,4 +188,4 @@ The videos with the last execution will be saved in cypress/videos folder. They 
 - [D-14] When I divide by zero a negative decimal number then I want to see the operation above the result, and -Infinity in the calculator screen
 - [D-15] When I divide zero by a positive decimal number then I want to see the operation above the result, and 0 in the calculator screen
 - [D-16] When I divide zero by a negative decimal number then I want to see the operation above the result, and 0 in the calculator screen
-- [D-17] When I divide a whole number and a decimal number then I want to see the operation above the result, and the result in the calculator scree
+- [D-17] When I divide a whole number and a decimal number then I want to see the operation above the result, and the result in the calculator screen
